@@ -8,10 +8,14 @@ div.row{
 
 div.fondo1{
     background-color: palegreen;
-     border-radius: 15%;
+     border-radius: 7%;
       padding: 1%;
 }
   
   footer .sub {
     margin-left: auto;
+  }
+  
+  body{
+    font-size: large;
   }
