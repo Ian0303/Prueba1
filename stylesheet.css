@@ -19,3 +19,15 @@ div.fondo1{
   body{
     font-size: large;
   }
+  .imagenJ{
+    width: 150px;
+    height: 150px;
+  }
+  td.estilo1{
+    display: flex;
+  }
+  .imagenE{
+    margin-right: 10;
+    width: 150px;
+    height: 150px;
+  }
