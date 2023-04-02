@@ -1,0 +1,33 @@
+.row{
+    padding: 30px;
+}
+div.row{
+    background-color:rgb(148, 228, 148) ;
+    text-align: center;
+}
+
+div.fondo1{
+    background-color: palegreen;
+     border-radius: 7%;
+      padding: 1%;
+}
+  
+  footer .sub {
+    margin-left: auto;
+  }
+  
+  body{
+    font-size: large;
+  }
+  .imagenJ{
+    width: 150px;
+    height: 150px;
+  }
+  td.estilo1{
+    display: flex;
+  }
+  .imagenE{
+    margin-right: 10;
+    width: 150px;
+    height: 150px;
+  }
